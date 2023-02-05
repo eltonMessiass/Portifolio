@@ -1,0 +1,23 @@
+{
+  "name": "portifolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d Portifolio"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eltonMessiass/Portifolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eltonMessiass/Portifolio/issues"
+  },
+  "homepage": "https://github.com/eltonMessiass/Portifolio#readme",
+  "dependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
