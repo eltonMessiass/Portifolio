@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "deploy": "gh-pages -d Portifolio"
+    "deploy": "gh-pages -d files"
   },
   "repository": {
     "type": "git",
